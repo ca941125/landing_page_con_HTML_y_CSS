@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(../imagenes/juanjo-jaramillo-mZnx9429i94-unsplash.jpg);
+    background-size: cover;
+    background-position: right top;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
