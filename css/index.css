@@ -4,7 +4,7 @@
 
 }
 body{
-    background-image: url(../imagenes/juanjo-jaramillo-mZnx9429i94-unsplash.jpg);
+    background-image: url(../imagenes/index.jpg);
     background-size: cover;
     background-position: right top;
     position: absolute;
@@ -39,11 +39,12 @@ button{
     border-radius: 10px 0;
     border-style: none;
     font-size: 15px;
-    background-color: rgb(248, 53, 255);
+    background-color: #F72F6D;
 }
 button a{
     text-decoration: none;
     color: black;
+    font-weight: bold;
 }
 button:hover{
     background-color: rgb(207, 0, 69);
